@@ -21,7 +21,4 @@ We conducted a large-scale retrieval and analysis of viral genome sequences from
 - Cowpox virus  
 - Vaccinia virus
 
----
-
-## 📁 Repository Structure
 
