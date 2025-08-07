@@ -22,3 +22,4 @@ We conducted a large-scale retrieval and analysis of viral genome sequences from
 - Vaccinia virus
 
 
+![image](https://github.com/SsemuyigaMHC/Poxviruses-Genomics/blob/main/Figures/sequence%20variation..png) 
